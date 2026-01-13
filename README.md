@@ -12,9 +12,9 @@ DATASET:
 The dataset contains time-series signals from smartphone sensors (Accelerometer and Gyroscope).
 Each sample represents a fixed time window of sensor readings.
 Activities include:
-Walking
-Walking Upstairs
-Walking Downstairs
-Sitting
-Standing
-Lying
+Walking,
+Walking Upstairs,
+Walking Downstairs,
+Sitting,
+Standing,
+Lying.
